@@ -1,0 +1,150 @@
+/* Seletores definem em quais elementos nos vamos aplicar o CSS
+1. Seletor de tipo: seleciona elementos pelo nome da tag
+2. Seletor de id
+3. Seletor de classe
+4. Seletor Universal
+5. Seletor de atributo
+ */
+
+/* * {
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  background: darkblue;
+  color: lightgreen;
+}
+div {
+  background: lightblue;
+  color: darkblue;
+}
+li {
+  background: lightgreen;
+  color: darkblue;
+}
+#texto-boas-vindas {
+  background: red;
+  color: white;
+}
+#explicacao-seletores {
+  background: lightgray;
+  color: darkblue;
+}
+
+.selector1 {
+  background: yellow;
+  color: darkblue;
+}
+.selector2 {
+  background: orange;
+  color: white;
+}
+.selector3 {
+  background: purple;
+  color: white;
+}
+.selector4 {
+  background: rgb(114, 41, 53);
+  color: white;
+}
+.texto-maiusculo {
+  text-transform: uppercase;
+} */
+
+/* [title="Netflix"] {
+  background: red;
+  color: white;
+  text-decoration: none;
+}
+[title="Prime Video"] {
+  background: blue;
+  color: white;
+  text-decoration: none;
+}
+[title="Spotify"] {
+  background: green;
+  color: white;
+  text-decoration: none;
+}
+[title="YouTube"] {
+  background: burlywood;
+  color: white;
+  text-decoration: none;
+} */
+
+/* [href^="http://"] {
+  background: black;
+  color: white;
+  text-decoration: none;
+}
+
+[href^="https://"] {
+  background: red;
+  color: white;
+  text-decoration: none;
+} */
+
+/* [href$="login"] {
+  background: red;
+  color: white;
+  text-decoration: none;
+} */
+
+/* div {
+  background: lightblue;
+  width: 200px;
+  height: 100px;
+} */
+
+/* #div1 {
+  background: lightblue;
+  width: 200px;
+  height: 200px;
+}
+
+#div2 {
+  background: lightblue;
+  width: 200px;
+  height: 200px;
+}
+
+#div3 {
+  background: lightblue;
+  width: 200px;
+  height: 200px;
+}
+
+#div4 {
+  background: lightblue;
+  width: 200px;
+  height: 200px;
+}
+
+#div5 {
+  background: lightblue;
+  width: 200px;
+  height: 200px;
+} */
+
+/* button {
+  background: lightsalmon;
+  max-width: 500px;
+  min-height: 300px;
+  max-height: 50px;
+} */
+
+/* div {
+  width: 300px;
+  height: 300px;
+
+  margin: 20px;
+  padding: 20px;
+}
+
+#caixa1 {
+  background: lightblue;
+}
+#caixa2 {
+  background: lightgreen;
+} */
