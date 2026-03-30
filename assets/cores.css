@@ -1,0 +1,39 @@
+body {
+  background-color: black;
+}
+
+li {
+  background-color: aquamarine;
+}
+
+#pre-definidas {
+  color: red;
+}
+#current-color {
+  background-color: transparent;
+  color: white;
+  border: 2px solid deeppink;
+}
+#hex {
+  color: #d000ff;
+}
+
+#hex-transparent {
+  color: #214d2180;
+}
+
+#rgb {
+  color: rgb(21, 0, 255);
+}
+
+#rgba {
+  color: rgba(216, 103, 10, 0.593);
+}
+
+#hsl {
+  color: hsl(0, 100%, 50%);
+}
+
+#hsla {
+  color: hsla(0, 100%, 50%, 0.5);
+}
